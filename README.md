@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Malcom619
+- 👋 Hi, I’m LARONDO
 - 👀 I’m interested in ...github
-- 🌱 I’m currently learning ...coding
+- 🌱 I’m currently learning ...cybercurity
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...ericoyeniyi@gmail.com
 
