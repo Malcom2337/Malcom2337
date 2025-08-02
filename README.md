@@ -1,4 +1,4 @@
-import React from "react"; import { Card, CardContent } from "@/components/ui/card"; import { Button } from "@/components/ui/button"; import { Input } from "@/components/ui/input"; import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
+import React from "larondo"; import { Card, CardContent } from "@/components/ui/card"; import { Button } from "@/components/ui/button"; import { Input } from "@/components/ui/input"; import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
 
 export default function LarondoHub() { return ( <div className="min-h-screen bg-white text-black p-8"> <header className="text-center mb-12"> <h1 className="text-4xl font-bold text-black shadow-[0_0_10px_red]">LARONDO HUB</h1> <p className="text-red-600 mt-2">Book and Track Helicopter, Train, and Yacht Tickets</p> </header>
 
